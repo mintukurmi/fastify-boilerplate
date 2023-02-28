@@ -5,7 +5,7 @@ This repo consists of boilerplate code for fatsify (a nodejs framework). This pr
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run the following commands:
 
 ### `npm run dev`
 
